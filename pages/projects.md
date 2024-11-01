@@ -11,7 +11,7 @@ permalink: /projects/
 <a class="project-link" href="https://assangecourt.report">
 <div class="project">
 <p class="project-image">
-<img src="bridges-website/assets/images/court_screenshot.png" class="align=left">
+<img src="/bridges-website/assets/images/court_screenshot.png" class="align=left">
 </p>
 <h3>Assange Court Report</h3>
 <p class="project-desc">
@@ -23,7 +23,7 @@ An archive of daily dispatches, photography and video from the Julian Assange ex
 <a class="project-link" href="/court-monitor">
 <div class="project">
 <p class="project-image">
-<img src="bridges-website/assets/images/AssangeDayX21-2-24-8.jpg" class="align=left">
+<img src="/bridges-website/assets/images/AssangeDayX21-2-24-8.jpg" class="align=left">
 </p>
 <h3>Court Monitoring</h3>
 <p class="project-desc">
@@ -35,7 +35,7 @@ Bridges for Media Freedom runs a closed email list for political and civil obser
 <a class="project-link" href="/slapp-monitor">
 <div class="project">
 <p class="project-image">
-<img src="bridges-website/assets/images/scale-2634833_1280.jpg" class="align=left">
+<img src="/bridges-website/assets/images/scale-2634833_1280.jpg" class="align=left">
 </p>
 <h3>SLAPP Monitoring</h3>
 <p class="project-desc">
