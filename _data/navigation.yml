@@ -1,0 +1,16 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Media"
+    url: /media/
+  - title: "Public Briefings"
+    url: /public-briefings/
+  - title: "Contact"
+    url: /contact/
+  - title: "Photo Resources"
+    url: https://assangecourt.report/photobank
+  - title: "Video Reports"
+    url: /video-reports/
+
